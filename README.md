@@ -4,9 +4,9 @@ Repository for the "Ética e Deontologia" course at Instituto Superior de Engenh
 
 | Lectures |
 | ----- |
-| [A Ética e as implicações na cibersegurança - Pedro Veiga](palestras/relatorio-da-palestra-2/palestra-n2.pdf") |
-| [A Ética dos 3 P’s - Marco Galinha](palestras/relatorio-da-palestra-4/palestra-n4.pdf") |
-| [Centro Nacional de Cibersegurança, CNCS e o CSIRT Nacional – CERT.PT - Rogério Raposo](palestras/relatorio-da-palestra-9/palestra-n9.pdf") |
+| [A Ética e as implicações na cibersegurança - Pedro Veiga](lectures/lecture-2-report/palestra-n2.pdf") |
+| [A Ética dos 3 P’s - Marco Galinha](lectures/lecture-4-report/palestra-n4.pdf") |
+| [Centro Nacional de Cibersegurança, CNCS e o CSIRT Nacional – CERT.PT - Rogério Raposo](lectures/lecture-9-report/palestra-n9.pdf") |
 
 ## Objectives
 This course aims to provide students with the necessary knowledge and skills in Ethics and Professional Deontology, so they may apply them in their future careers as computer engineers.
